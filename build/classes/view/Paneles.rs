@@ -1,2 +1,0 @@
-view.Paneles
-view.ImagenFondo
