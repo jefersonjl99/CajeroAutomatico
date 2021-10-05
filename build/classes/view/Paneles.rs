@@ -1,0 +1,2 @@
+view.Paneles
+view.ImagenFondo
