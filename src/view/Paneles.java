@@ -80,7 +80,7 @@ public class Paneles extends JPanel {
 
         etiqueta.setBackground(COLOR1);
         etiqueta.setForeground(Color.BLACK);
-        etiqueta.setBorder(BORDE);
+//        etiqueta.setBorder(BORDE);
         etiqueta.requestFocus();
         etiqueta.addFocusListener(new FocusListener() {
             @Override
